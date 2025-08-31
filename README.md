@@ -29,14 +29,7 @@ A chatbot app for **mental health support**, featuring guided meditation, mood t
 
 ---
 
-## 🌟 Pinned Projects
 
-[![Cycle Sharing System](https://img.shields.io/badge/Cycle_Sharing-ReactNative-blue?style=for-the-badge)](https://github.com/Sivasothy-Tharsi)  
-[![PingMe Chat App](https://img.shields.io/badge/PingMe-RealTime_Chat-red?style=for-the-badge)](https://github.com/Sivasothy-Tharsi)  
-[![Shopping Cart Web App](https://img.shields.io/badge/Shopping_Cart-Firebase-yellow?style=for-the-badge)](https://github.com/Sivasothy-Tharsi)  
-[![AR Mobile App](https://img.shields.io/badge/AR_App-ReactNative-green?style=for-the-badge)](https://github.com/Sivasothy-Tharsi)  
-
----
 
 ## 💼 Experience
 
@@ -49,7 +42,7 @@ A chatbot app for **mental health support**, featuring guided meditation, mood t
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivasothy-tharsi)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/sivasothy-tharsi-6ba193210)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sivasothy-Tharsi)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sivasothytharsi@gmail.com)  
 
