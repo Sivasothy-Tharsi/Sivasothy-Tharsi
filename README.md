@@ -2,7 +2,7 @@
 
 ### 💻 Computer Engineering Undergraduate | Web & Mobile Developer | AR & AI Enthusiast  
 
-I'm passionate about building **innovative web and mobile applications** and working on projects that make an impact. Currently exploring **mental health chatbot development, AR-based mobile apps, and real-time systems**.  
+I’m passionate about creating **innovative web & mobile applications** and exploring **AI/AR technologies**. Currently developing a **Mental Health Chatbot** to support mental well-being.  
 
 ---
 
@@ -21,31 +21,20 @@ I'm passionate about building **innovative web and mobile applications** and wor
 
 ---
 
-## 🚀 Projects
+## 🚀 Current Project
 
-### **🤖 Mental Health Chatbot (2025)**
-A chatbot application for **mental health support** with mood tracking, guided meditation, journaling, access to licensed therapists, and community support.  
-**Tech:** React Native, Spring Boot, MongoDB, Firebase, WebSocket, JWT  
+### 🤖 Mental Health Chatbot (2025)
+A chatbot app for **mental health support**, featuring guided meditation, mood tracking, journaling, and access to licensed therapists.  
+**Tech Stack:** React Native, Spring Boot, MongoDB, Firebase, Cloudinary, WebSocket, JWT  
 
-### **🚲 Cycle Sharing System (2023-2024)**
-Sustainable urban transportation solution with web and mobile apps.  
-**Tech:** React Native, React.js, Spring Boot, MySQL, MongoDB  
+---
 
-### **💬 PingMe – Real-Time Chat App (2024)**
-Secure and instant messaging app with real-time communication.  
-**Tech:** React, Spring Boot, WebSocket, JWT, MySQL, AWS  
+## 🌟 Pinned Projects
 
-### **🛒 Shopping Cart Web Application (2023)**
-CRUD operations with Firebase backend for a seamless shopping experience.  
-**Tech:** React.js, Express.js, MongoDB, Firebase  
-
-### **📚 Student & Library Management Systems**
-Efficient CRUD-based student and library management applications.  
-**Tech:** C#, SQLite, WPF, C++  
-
-### **🛠️ Mobile App with AR Technology (2023)**
-AR app for visualizing and customizing floor and wall designs.  
-**Tech:** React Native, AR frameworks  
+[![Cycle Sharing System](https://img.shields.io/badge/Cycle_Sharing-ReactNative-blue?style=for-the-badge)](https://github.com/Sivasothy-Tharsi)  
+[![PingMe Chat App](https://img.shields.io/badge/PingMe-RealTime_Chat-red?style=for-the-badge)](https://github.com/Sivasothy-Tharsi)  
+[![Shopping Cart Web App](https://img.shields.io/badge/Shopping_Cart-Firebase-yellow?style=for-the-badge)](https://github.com/Sivasothy-Tharsi)  
+[![AR Mobile App](https://img.shields.io/badge/AR_App-ReactNative-green?style=for-the-badge)](https://github.com/Sivasothy-Tharsi)  
 
 ---
 
@@ -53,8 +42,8 @@ AR app for visualizing and customizing floor and wall designs.
 
 **IFS R&D International (Pvt) Ltd – Colombo**  
 *Engineering Intern (July 2024 – Present)*  
-- Developed **Unified Support Software** and real-time applications.  
-- Worked on frontend and backend for secure messaging and data management.  
+- Developed **Unified Support Software** and real-time applications  
+- Contributed to frontend & backend development with **secure messaging and data management**  
 
 ---
 
@@ -62,10 +51,10 @@ AR app for visualizing and customizing floor and wall designs.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivasothy-tharsi)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sivasothy-Tharsi)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sivasothytharsi@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sivasothytharsi@gmail.com)  
 
 ---
 
 ## 📊 GitHub Stats
-
-![Sivasothy-Tharsi GitHub stats](https://github-readme-stats.vercel.app/api?username=Sivasothy-Tharsi&show_icons=true&theme=radical)
+ 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sivasothy-Tharsi&layout=compact&theme=radical)
