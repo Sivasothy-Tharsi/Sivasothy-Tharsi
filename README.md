@@ -1,69 +1,51 @@
 # 👋 Hi, I'm Sivasothy Tharsi
 
-I'm a **Computer Engineering undergraduate** at the University of Ruhuna, passionate about software development, web and mobile applications, and innovative technologies. I love turning ideas into real-world projects and contributing to impactful solutions.  
+### 💻 Computer Engineering Undergraduate | Web & Mobile Developer | AR & AI Enthusiast  
 
----
-
-## 💻 About Me
-
-- 📚 Computer Engineering Student | University of Ruhuna  
-- 👨‍💻 Skilled in Java, C++, JavaScript, React.js, React Native, MySQL, MongoDB, Spring Boot  
-- 🌱 Currently exploring **mental health chatbot development**  
-- 🎯 Seeking internship opportunities to grow professionally and contribute to innovative projects  
+I'm passionate about building **innovative web and mobile applications** and working on projects that make an impact. Currently exploring **mental health chatbot development, AR-based mobile apps, and real-time systems**.  
 
 ---
 
 ## 🛠️ Skills
 
-**Programming Languages:** C++, Java, JavaScript, Python  
-**Frontend:** React.js, React Native, Tailwind CSS  
-**Backend:** Spring Boot, Express.js  
-**Databases:** MySQL, MongoDB, SQLite, Firebase  
-**Mobile Development:** Android Studio, Kotlin  
-**Machine Learning:** Sentiment Analysis (Naive Bayes, Logistic Regression)  
-**UI/UX:** Figma, AR Interfaces  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
 ## 🚀 Projects
 
-### **Mental Health Chatbot Development (2025)**
-- **Description:** Developing a chatbot application to provide mental health support. Features include guided meditation, mood tracking, journaling, access to licensed therapists, and community support.  
-- **Contribution:** Working on frontend and backend functionalities, including user authentication, real-time chat, and task management.  
-- **Technologies:** React Native, Spring Boot, MongoDB, Firebase, Cloudinary, WebSocket, JWT  
+### **🤖 Mental Health Chatbot (2025)**
+A chatbot application for **mental health support** with mood tracking, guided meditation, journaling, access to licensed therapists, and community support.  
+**Tech:** React Native, Spring Boot, MongoDB, Firebase, WebSocket, JWT  
 
-### **Cycle Sharing System (2023-2024)**
-- **Description:** Sustainable urban transportation system with web and mobile applications.  
-- **Contribution:** Led frontend development with React Native, implemented backend location services in Spring Boot & MongoDB, and managed station operations.  
-- **Technologies:** React Native, React.js, Spring Boot, MySQL, MongoDB  
+### **🚲 Cycle Sharing System (2023-2024)**
+Sustainable urban transportation solution with web and mobile apps.  
+**Tech:** React Native, React.js, Spring Boot, MySQL, MongoDB  
 
-### **PingMe – Real-Time Chat App (2024)**
-- **Description:** Secure messaging application with instant communication.  
-- **Technologies:** Spring Boot, React, WebSocket, STOMP Protocol, JWT, MySQL, Cloudinary, AWS  
+### **💬 PingMe – Real-Time Chat App (2024)**
+Secure and instant messaging app with real-time communication.  
+**Tech:** React, Spring Boot, WebSocket, JWT, MySQL, AWS  
 
-### **Shopping Cart Web Application (2023)**
-- **Description:** Full CRUD operations for cart management with Firebase backend.  
-- **Technologies:** React.js, Express.js, MongoDB, Firebase  
+### **🛒 Shopping Cart Web Application (2023)**
+CRUD operations with Firebase backend for a seamless shopping experience.  
+**Tech:** React.js, Express.js, MongoDB, Firebase  
 
-### **Student Management System (2023)**
-- **Description:** CRUD-based student management system with WPF interface.  
-- **Technologies:** C#, SQLite, WPF  
+### **📚 Student & Library Management Systems**
+Efficient CRUD-based student and library management applications.  
+**Tech:** C#, SQLite, WPF, C++  
 
-### **Point of Sale System (2023)**
-- **Description:** POS system with sales, inventory, and customer management.  
-- **Technologies:** C#, SQLite, WPF  
-
-### **Library System Management (2022)**
-- **Description:** Console-based library management system with authentication and book cataloging.  
-- **Technologies:** C++, Data Structures  
-
-### **Mobile App with AR Technology (2023)**
-- **Description:** AR-based mobile app for visualizing and customizing floor and wall designs.  
-- **Technologies:** React Native, AR frameworks  
-
-### **Sentiment Analysis on Text (2023)**
-- **Description:** Analyzed text data using machine learning techniques (Naive Bayes, Logistic Regression).  
-- **Technologies:** Python, scikit-learn  
+### **🛠️ Mobile App with AR Technology (2023)**
+AR app for visualizing and customizing floor and wall designs.  
+**Tech:** React Native, AR frameworks  
 
 ---
 
@@ -71,13 +53,19 @@ I'm a **Computer Engineering undergraduate** at the University of Ruhuna, passio
 
 **IFS R&D International (Pvt) Ltd – Colombo**  
 *Engineering Intern (July 2024 – Present)*  
-- Worked on **Unified Support Software** and real-time applications.  
-- Contributed to frontend and backend development, including secure messaging and data management systems.  
+- Developed **Unified Support Software** and real-time applications.  
+- Worked on frontend and backend for secure messaging and data management.  
 
 ---
 
-## 📫 Contact Me
+## 📫 Connect with Me
 
-- Email: [sivasothytharsi@gmail.com](mailto:sivasothytharsi@gmail.com)  
-- LinkedIn: [Sivasothy-Tharsi]((https://www.linkedin.com/in/sivasothy-tharsi-6ba193210)
-- GitHub: [Sivasothy-Tharsi](https://github.com/Sivasothy-Tharsi)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivasothy-tharsi)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sivasothy-Tharsi)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sivasothytharsi@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+
+![Sivasothy-Tharsi GitHub stats](https://github-readme-stats.vercel.app/api?username=Sivasothy-Tharsi&show_icons=true&theme=radical)
