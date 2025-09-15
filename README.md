@@ -1,52 +1,64 @@
-<!-- Profile README for Sivasothy-Tharsi -->
+# 👋 Hi, I'm Tharsi!
 
-<h1 align="center">Hi 👋, I'm Sivasothy Tharsi</h1>
+🎓 Final-year **Computer Engineering Undergraduate** at the Faculty of Engineering, **University of Ruhuna, Sri Lanka**  
+💡 Passionate about **building impactful tech products** and aspiring to be a **Software Engineer** who creates innovative solutions.  
+✨ Motto: *"Building tech that makes everyday life simpler, smarter, and more human."*  
+
+---
+
+## 🚀 My Core Interests
+- 🤖 **AI & Machine Learning** – Exploring intelligent systems that learn, adapt, and solve problems  
+- 🌐 **Full-Stack Development** – Crafting seamless web & mobile applications  
+- ⚙️ **Scalable Backend Systems** – Designing robust architectures for growth & performance  
+
+---
+
+## 🛠️ Tech Stack & Skills
+💻 **Languages:** Java | JavaScript | Kotlin | PL/SQL  
+🎨 **Front-End:** React.js | React Native  
+⚡ **Back-End:** Spring Boot | Node.js  
+🗄️ **Databases:** MongoDB | MySQL | Firebase  
+
+---
+
+## ✨ Featured Projects
+📱 **AR Mobile App** – An **augmented reality mobile app** offering interactive design experiences, blending AR with practical applications.  
+
+💬 **PingMe Chat Application** – A **real-time chat platform** (WhatsApp-inspired) with a modern UI & scalable backend.  
+
+🌍 **Community Projects** – Actively contributing to open-source & community-driven software solutions.  
+
+---
+
+## 🌟 Achievements
+- 📜 Completed **Oracle SQL certification** with hands-on projects  
+- 🚀 Built real-world apps: e-commerce, booking systems, food ordering, and more  
+- 🤝 Collaborative software contributions in open-source  
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
-  <em>
-    Final-year Computer Engineering Student at the Faculty of Engineering, University of Ruhuna<br/>
-    Aspiring Software Engineer & AI/ML Enthusiast
-  </em>
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=your-username&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 🔗 Let’s Connect!
+I’m always open to collaborations, opportunities, and meaningful conversations.  
 
-- 🎓 Final-year Computer Engineering student passionate about building impactful tech products.
-- 🚀 Aspiring Software Engineer with a keen interest in AI, machine learning, and full-stack development.
-- 💡 Motto: <b>"Building tech that makes everyday life simpler, smarter, and more human."</b>
-
----
-
-### 🛠️ Tech Stack & Skills
-
-- **Languages:** Java, JavaScript, Kotlin, PLSQL
-- **Frameworks/Libraries:** React.js, React Native, Spring Boot, Node.js
-- **Databases:** MongoDB, MySQL, Firebase
-- **Specialties:** Full-stack development, mobile app development, scalable backend systems
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)  
+- 🖥️ [GitHub](https://github.com/your-username)  
+- 🌐 [Portfolio](https://your-portfolio-link.com)  
 
 ---
 
-### 🌟 Highlight Projects
-
-- 🔍 **[AR Mobile App](https://github.com/Sivasothy-Tharsi/MobileApplication_Development/tree/master/DesignApp):**  
-  Augmented reality mobile application for interactive design experiences.
-
-- 💬 **[PingMe Chat Application](https://github.com/Sivasothy-Tharsi/PickMeChat):**  
-  Real-time chat platform inspired by WhatsApp, with modern UI and robust backend.
-
-- 🤝 **Open Source & Community:**  
-  Contributed to several community-based software projects, always eager to collaborate and learn.
-
----
-
-### 📫 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/sivasothy-tharsi-6ba193210)
-- [GitHub](https://github.com/Sivasothy-Tharsi)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sivasothy-Tharsi&show_icons=true&theme=tokyonight" alt="Sivasothy Tharsi's GitHub stats"/>
-</p>
+✨ *Thanks for stopping by my profile! Let’s build something amazing together.* 🚀
